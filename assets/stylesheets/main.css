@@ -73,7 +73,7 @@ body {
 }
 .container,
 .grid {
-  margin: 0 auto;
+  margin:auto;
   width: 960px;
 }
 .container {
@@ -198,7 +198,7 @@ p a {
 
 .logo {
   border-top: 4px solid #648880;
-  float: left;
+  float:left;
   font-size: 48px;
   font-weight: 100;
   letter-spacing: .5px;
@@ -226,7 +226,7 @@ p a {
 .primary-footer {
   color: #648880;
   font-size: 14px;
-  padding-bottom: 44px;
+  padding-bottom:44px;
   padding-top: 44px;
 }
 .primary-footer small {
